@@ -1,0 +1,8 @@
+{
+  "name": "mjplay-epg",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node refresh.mjs"
+  }
+}

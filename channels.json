@@ -1,0 +1,1545 @@
+{
+  "version": 1,
+  "feeds": [
+    {
+      "name": "UK1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "US2",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "US_LOCALS1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "NZ1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "ZA1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "CA2",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "AU1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "MY1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "IE1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "BEIN1",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "TALK_US",
+      "url": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_lite.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "TALK_FREE",
+      "url": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "TALK_UK",
+      "url": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/UK_lite.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "OTHER_UK",
+      "url": "https://iptv-epg.org/files/epg-gb.xml.gz",
+      "gzip": true
+    },
+    {
+      "name": "BBC_LIVE",
+      "url": "https://raw.githubusercontent.com/sasagr/bbcnews-epg/main/bbcnews.xml",
+      "gzip": false
+    }
+  ],
+  "channels": [
+    {
+      "number": 38,
+      "id": "SkySpMainEvHD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Main Event"
+    },
+    {
+      "number": 37,
+      "id": "SkySp.ActionHD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Action UK"
+    },
+    {
+      "number": 35,
+      "id": "SkySp.Fball.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Football UK"
+    },
+    {
+      "number": 65,
+      "id": "SkySpCricket.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Cricket"
+    },
+    {
+      "number": 60,
+      "id": "SkySp.F1.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports F1 UK"
+    },
+    {
+      "number": 70,
+      "id": "SkySp.Golf.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Golf UK"
+    },
+    {
+      "number": 449,
+      "id": "SkySp.Mix.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports MIX UK"
+    },
+    {
+      "number": 366,
+      "id": "SkySp.News.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports News UK"
+    },
+    {
+      "number": 130,
+      "id": "SkySp.PL.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Premier League"
+    },
+    {
+      "number": 554,
+      "id": "SkySp.Racing.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Racing UK"
+    },
+    {
+      "number": 46,
+      "id": "SkySp.Tennis.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Sports Tennis UK"
+    },
+    {
+      "number": 683,
+      "id": "Sky.Arts.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Arts UK"
+    },
+    {
+      "number": 362,
+      "id": "Sky.Atlantic.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Atlantic"
+    },
+    {
+      "number": 677,
+      "id": "Sky.Action.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Action UK"
+    },
+    {
+      "number": 678,
+      "id": "Sky.Cinema.Comedy.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Comedy UK"
+    },
+    {
+      "number": 680,
+      "id": "Sky.Drama.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Drama UK"
+    },
+    {
+      "number": 676,
+      "id": "Sky.Family.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Family UK"
+    },
+    {
+      "number": 674,
+      "id": "Sky.Greats.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Greats UK"
+    },
+    {
+      "number": 673,
+      "id": "Sky.Cinema.Hits.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Hits UK"
+    },
+    {
+      "number": 671,
+      "id": "SkyPremiereHD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Premiere UK"
+    },
+    {
+      "number": 672,
+      "id": "Sky.Cinema.Select.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Select UK"
+    },
+    {
+      "number": 679,
+      "id": "Sky.Thriller.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Cinema Thriller UK"
+    },
+    {
+      "number": 684,
+      "id": "Sky.Comedy.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Comedy UK"
+    },
+    {
+      "number": 685,
+      "id": "Sky.Crime.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Crime"
+    },
+    {
+      "number": 686,
+      "id": "Sky.HistoryHD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky History"
+    },
+    {
+      "number": 361,
+      "id": "Sky.Witness.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Witness"
+    },
+    {
+      "number": 44,
+      "id": "ESPN.HD.us2",
+      "feed": "US2",
+      "region": "US national",
+      "title": "ESPN USA"
+    },
+    {
+      "number": 45,
+      "id": "ESPN2.HD.us2",
+      "feed": "US2",
+      "region": "US national",
+      "title": "ESPN2 USA"
+    },
+    {
+      "number": 288,
+      "id": "ESPNEWS.HD.us2",
+      "feed": "US2",
+      "region": "US national",
+      "title": "ESPNews"
+    },
+    {
+      "number": 316,
+      "id": "ESPNU.HD.us2",
+      "feed": "US2",
+      "region": "US national",
+      "title": "ESPNU USA"
+    },
+    {
+      "number": 345,
+      "id": "CNN.HD.us2",
+      "feed": "US2",
+      "region": "US national",
+      "title": "CNN.us"
+    },
+    {
+      "number": 327,
+      "id": "MSNBC.HD.us2",
+      "feed": "US2",
+      "region": "US national",
+      "title": "MSNBC"
+    },
+    {
+      "number": 766,
+      "id": "WABC-DT.us_locals1",
+      "feed": "US_LOCALS1",
+      "region": "New York, US",
+      "title": "ABCNY USA"
+    },
+    {
+      "number": 767,
+      "id": "WCBS-DT.us_locals1",
+      "feed": "US_LOCALS1",
+      "region": "New York, US",
+      "title": "CBSNY USA"
+    },
+    {
+      "number": 768,
+      "id": "WNYW-DT.us_locals1",
+      "feed": "US_LOCALS1",
+      "region": "New York, US",
+      "title": "FOXNY USA"
+    },
+    {
+      "number": 280,
+      "id": "WPIX-DT.us_locals1",
+      "feed": "US_LOCALS1",
+      "region": "New York, US",
+      "title": "CW PIX 11 USA"
+    },
+    {
+      "number": 654,
+      "id": "WWOR-DT.us_locals1",
+      "feed": "US_LOCALS1",
+      "region": "New York, US",
+      "title": "MY9TV USA"
+    },
+    {
+      "number": 652,
+      "id": "Disney.Junior.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Disney JR"
+    },
+    {
+      "number": 669,
+      "id": "Crime.and.Investigation.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Crime & Investigation USA"
+    },
+    {
+      "number": 750,
+      "id": "CSPAN.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "C SPAN 1"
+    },
+    {
+      "number": 751,
+      "id": "Family.Entertainment.Television.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FETV - Family Entertainment Television"
+    },
+    {
+      "number": 39,
+      "id": "FS1.Fox.Sports.1.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Fox Sports 1 USA"
+    },
+    {
+      "number": 758,
+      "id": "FS2.Fox.Sports.2.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Fox Sports 2 USA"
+    },
+    {
+      "number": 279,
+      "id": "Fuse.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FUSE TV USA"
+    },
+    {
+      "number": 323,
+      "id": "HLN.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Headline News"
+    },
+    {
+      "number": 656,
+      "id": "IFC.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "IFC TV USA"
+    },
+    {
+      "number": 278,
+      "id": "Law.and.Crime.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Law & Crime Network"
+    },
+    {
+      "number": 389,
+      "id": "LMN.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Lifetime Movies Network"
+    },
+    {
+      "number": 326,
+      "id": "Lifetime.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Lifetime Network"
+    },
+    {
+      "number": 762,
+      "id": "New.England.Sports.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "NESN USA"
+    },
+    {
+      "number": 371,
+      "id": "MTV.-.Music.Television.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "MTV US"
+    },
+    {
+      "number": 653,
+      "id": "POP.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "POP TV USA"
+    },
+    {
+      "number": 293,
+      "id": "ReelzChannel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Reelz Channel"
+    },
+    {
+      "number": 603,
+      "id": "Smithsonian.HD.Network.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Smithsonian Channel"
+    },
+    {
+      "number": 320,
+      "id": "Hallmark.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "The Hallmark Channel"
+    },
+    {
+      "number": 340,
+      "id": "The.Travel.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Travel Channel"
+    },
+    {
+      "number": 662,
+      "id": "Me.TV.Network.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "METV USA"
+    },
+    {
+      "number": 659,
+      "id": "Vice.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "VICE TV"
+    },
+    {
+      "number": 312,
+      "id": "Disney.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Disney Channel USA"
+    },
+    {
+      "number": 341,
+      "id": "truTV.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "TruTV USA"
+    },
+    {
+      "number": 355,
+      "id": "Channel.5.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Channel 5 UK"
+    },
+    {
+      "number": 687,
+      "id": "U.and.GOLD.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Gold UK"
+    },
+    {
+      "number": 348,
+      "id": "U.and.Dave.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Dave"
+    },
+    {
+      "number": 826,
+      "id": "LFCTV.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Liverpool TV (LFC TV)"
+    },
+    {
+      "number": 588,
+      "id": "Sky.Sport.1.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 1 NZ"
+    },
+    {
+      "number": 589,
+      "id": "Sky.Sport.2.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 2 NZ"
+    },
+    {
+      "number": 590,
+      "id": "Sky.Sport.3.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 3 NZ"
+    },
+    {
+      "number": 591,
+      "id": "Sky.Sport.4.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 4 NZ"
+    },
+    {
+      "number": 592,
+      "id": "Sky.Sport.5.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 5 NZ"
+    },
+    {
+      "number": 593,
+      "id": "Sky.Sport.6.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 6 NZ"
+    },
+    {
+      "number": 594,
+      "id": "Sky.Sport.7.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 7 NZ"
+    },
+    {
+      "number": 595,
+      "id": "Sky.Sport.8.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 8 NZ"
+    },
+    {
+      "number": 596,
+      "id": "Sky.Sport.9.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport 9 NZ"
+    },
+    {
+      "number": 587,
+      "id": "Sky.Sport.Select.nz",
+      "feed": "NZ1",
+      "region": "New Zealand",
+      "title": "Sky Sport Select NZ"
+    },
+    {
+      "number": 420,
+      "id": "SS.Action.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Action"
+    },
+    {
+      "number": 368,
+      "id": "CRICKET.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Cricket"
+    },
+    {
+      "number": 56,
+      "id": "SS.Football.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Football"
+    },
+    {
+      "number": 422,
+      "id": "GOLF.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Golf"
+    },
+    {
+      "number": 412,
+      "id": "GRANDSTAND.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Grandstand"
+    },
+    {
+      "number": 572,
+      "id": "MAXIMO.1.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport MaXimo 1"
+    },
+    {
+      "number": 424,
+      "id": "MOTORSPORT.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Motorsport"
+    },
+    {
+      "number": 414,
+      "id": "SS.Premier.League.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Premier League"
+    },
+    {
+      "number": 413,
+      "id": "PSL.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport PSL"
+    },
+    {
+      "number": 421,
+      "id": "RUGBY.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Rugby"
+    },
+    {
+      "number": 423,
+      "id": "TENNIS.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Tennis"
+    },
+    {
+      "number": 416,
+      "id": "SS.Variety.1.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Variety 1"
+    },
+    {
+      "number": 417,
+      "id": "SS.Variety.2.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Variety 2"
+    },
+    {
+      "number": 418,
+      "id": "SS.Variety.3.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Variety 3"
+    },
+    {
+      "number": 419,
+      "id": "SS.Variety.4.za",
+      "feed": "ZA1",
+      "region": "South Africa",
+      "title": "SuperSport Variety 4"
+    },
+    {
+      "number": 111,
+      "id": "TSN.1.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "TSN1"
+    },
+    {
+      "number": 112,
+      "id": "TSN.2.HD.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "TSN2"
+    },
+    {
+      "number": 113,
+      "id": "TSN.3.HD.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "TSN3"
+    },
+    {
+      "number": 114,
+      "id": "TSN.4.HD.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "TSN4"
+    },
+    {
+      "number": 115,
+      "id": "TSN.5.HD.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "TSN5"
+    },
+    {
+      "number": 837,
+      "id": "YesTV.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "Yes TV CA"
+    },
+    {
+      "number": 491,
+      "id": "beINSports1.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "beIN SPORTS Australia 1"
+    },
+    {
+      "number": 492,
+      "id": "beINSports2.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "beIN Sports Australia 2"
+    },
+    {
+      "number": 493,
+      "id": "beINSports3.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "beIN Sports Australia 3"
+    },
+    {
+      "number": 369,
+      "id": "FoxCricket.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "Fox Cricket"
+    },
+    {
+      "number": 820,
+      "id": "FoxLeague.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "FOX Sports 502 AU"
+    },
+    {
+      "number": 822,
+      "id": "FoxFooty.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "FOX Sports 504 AU"
+    },
+    {
+      "number": 821,
+      "id": "FoxSports503.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "FOX Sports 503 AU"
+    },
+    {
+      "number": 823,
+      "id": "FoxSports505.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "FOX Sports 505 AU"
+    },
+    {
+      "number": 824,
+      "id": "FoxSports506.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "FOX Sports 506 AU"
+    },
+    {
+      "number": 370,
+      "id": "Astro.Cricket.my",
+      "feed": "MY1",
+      "region": "Malaysia",
+      "title": "Astro Cricket"
+    },
+    {
+      "number": 771,
+      "id": "Premier.Sports.1.HD.ie",
+      "feed": "IE1",
+      "region": "Ireland",
+      "title": "Premier Sports Ireland 1"
+    },
+    {
+      "number": 799,
+      "id": "Premier.Sports.2.HD.ie",
+      "feed": "IE1",
+      "region": "Ireland",
+      "title": "Premier Sports Ireland 2"
+    },
+    {
+      "number": 365,
+      "id": "RTE.Two.HD.ie",
+      "feed": "IE1",
+      "region": "Ireland",
+      "title": "RTE 2 Ireland"
+    },
+    {
+      "number": 61,
+      "id": "beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein",
+      "feed": "BEIN1",
+      "region": "MENA English",
+      "title": "beIN Sports MENA English 1"
+    },
+    {
+      "number": 90,
+      "id": "beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein",
+      "feed": "BEIN1",
+      "region": "MENA English",
+      "title": "beIN Sports MENA English 2"
+    },
+    {
+      "number": 664,
+      "id": "ACC.Network.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "ACC Network USA"
+    },
+    {
+      "number": 742,
+      "id": "AXS.TV.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "AXS TV USA"
+    },
+    {
+      "number": 305,
+      "id": "BBC.America.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "BBC America (BBCA)"
+    },
+    {
+      "number": 359,
+      "id": "BBC.Four.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "BBC Four UK"
+    },
+    {
+      "number": 358,
+      "id": "BBC.Three.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "BBC Three UK"
+    },
+    {
+      "number": 357,
+      "id": "BBC.Two.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "BBC Two UK"
+    },
+    {
+      "number": 425,
+      "id": "beIN.Sports.USA.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "beIN Sports USA"
+    },
+    {
+      "number": 306,
+      "id": "BET.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "BET USA"
+    },
+    {
+      "number": 397,
+      "id": "Big.Ten.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "BIG TEN Network (BTN USA)"
+    },
+    {
+      "number": 648,
+      "id": "Boomerang.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Boomerang"
+    },
+    {
+      "number": 307,
+      "id": "Bravo.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Bravo USA"
+    },
+    {
+      "number": 339,
+      "id": "Cartoon.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Cartoon Network"
+    },
+    {
+      "number": 308,
+      "id": "CBS.Sports.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "CBS Sports Network (CBSSN)"
+    },
+    {
+      "number": 354,
+      "id": "Channel.4.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Channel 4 UK"
+    },
+    {
+      "number": 715,
+      "id": "Cleo.TV.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Cleo TV"
+    },
+    {
+      "number": 310,
+      "id": "Comedy.Central.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Comedy Central"
+    },
+    {
+      "number": 696,
+      "id": "Comet.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Comet USA"
+    },
+    {
+      "number": 281,
+      "id": "Court.TV.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Court TV USA"
+    },
+    {
+      "number": 748,
+      "id": "COZI.TV.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "COZI TV USA"
+    },
+    {
+      "number": 651,
+      "id": "Destination.America.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Destination America"
+    },
+    {
+      "number": 313,
+      "id": "Discovery.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Discovery Channel"
+    },
+    {
+      "number": 657,
+      "id": "Discovery.Family.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Discovery Family"
+    },
+    {
+      "number": 311,
+      "id": "Discovery.Life.Channel.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Discovery Life Channel"
+    },
+    {
+      "number": 314,
+      "id": "Disney.XD.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Disney XD"
+    },
+    {
+      "number": 315,
+      "id": "E!.Entertainment.Television.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "E! Entertainment Television"
+    },
+    {
+      "number": 363,
+      "id": "E4.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "E4"
+    },
+    {
+      "number": 757,
+      "id": "Fight.Network.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Fight Network"
+    },
+    {
+      "number": 688,
+      "id": "Film4.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Film4 UK"
+    },
+    {
+      "number": 297,
+      "id": "Fox.Business.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Fox Business"
+    },
+    {
+      "number": 347,
+      "id": "Fox.News.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FOX News"
+    },
+    {
+      "number": 756,
+      "id": "Fox.Soccer.Plus.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FOX Soccer Plus"
+    },
+    {
+      "number": 301,
+      "id": "Freeform.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Freeform"
+    },
+    {
+      "number": 381,
+      "id": "FX.Movie.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FX Movie Channel"
+    },
+    {
+      "number": 317,
+      "id": "FX.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FX USA"
+    },
+    {
+      "number": 298,
+      "id": "FXX.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FXX USA"
+    },
+    {
+      "number": 665,
+      "id": "FYI.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "FYI"
+    },
+    {
+      "number": 319,
+      "id": "Game.Show.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Game Show Network"
+    },
+    {
+      "number": 318,
+      "id": "Golf.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "GOLF Channel USA"
+    },
+    {
+      "number": 699,
+      "id": "Great.American.Family.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Great American Family"
+    },
+    {
+      "number": 752,
+      "id": "Grit.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Grit Channel"
+    },
+    {
+      "number": 322,
+      "id": "History.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "History USA"
+    },
+    {
+      "number": 324,
+      "id": "Investigation.Discovery.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Investigation Discovery (ID USA)"
+    },
+    {
+      "number": 325,
+      "id": "ION.Television.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "ION USA"
+    },
+    {
+      "number": 350,
+      "id": "ITV1.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "ITV 1 UK"
+    },
+    {
+      "number": 351,
+      "id": "ITV2.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "ITV 2 UK"
+    },
+    {
+      "number": 352,
+      "id": "ITV3.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "ITV 3 UK"
+    },
+    {
+      "number": 353,
+      "id": "ITV4.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "ITV 4 UK"
+    },
+    {
+      "number": 299,
+      "id": "Magnolia.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Magnolia Network"
+    },
+    {
+      "number": 770,
+      "id": "Marquee.Sports.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Marquee Sports Network"
+    },
+    {
+      "number": 399,
+      "id": "MLB.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "MLB Network USA"
+    },
+    {
+      "number": 661,
+      "id": "MOTORTREND.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Motor Trend"
+    },
+    {
+      "number": 367,
+      "id": "MTV.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "MTV UK"
+    },
+    {
+      "number": 328,
+      "id": "National.Geographic.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "National Geographic (NGC)"
+    },
+    {
+      "number": 745,
+      "id": "National.Geographic.Wild.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "National Geographic Wild USA"
+    },
+    {
+      "number": 404,
+      "id": "NBA.TV.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "NBA TV USA"
+    },
+    {
+      "number": 292,
+      "id": "NewsNation.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "NewsNation USA"
+    },
+    {
+      "number": 405,
+      "id": "NFL.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "NFL Network"
+    },
+    {
+      "number": 663,
+      "id": "NHL.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "NHL Network USA"
+    },
+    {
+      "number": 329,
+      "id": "Nick.Jr.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "NICK JR USA"
+    },
+    {
+      "number": 666,
+      "id": "Nick.Music.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Nick Music"
+    },
+    {
+      "number": 649,
+      "id": "Nicktoons.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Nicktoons"
+    },
+    {
+      "number": 331,
+      "id": "Oprah.Winfrey.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Oprah Winfrey Network (OWN)"
+    },
+    {
+      "number": 848,
+      "id": "Outdoor.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Outdoor Channel"
+    },
+    {
+      "number": 332,
+      "id": "Oxygen.True.Crime.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Oxygen True Crime"
+    },
+    {
+      "number": 334,
+      "id": "Paramount.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Paramount Network"
+    },
+    {
+      "number": 555,
+      "id": "Racing.TV.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Racing Tv UK"
+    },
+    {
+      "number": 670,
+      "id": "S4C.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "S4C UK"
+    },
+    {
+      "number": 294,
+      "id": "Science.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Science Channel"
+    },
+    {
+      "number": 385,
+      "id": "SEC.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "SEC Network USA"
+    },
+    {
+      "number": 658,
+      "id": "SundanceTV.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Sundance TV"
+    },
+    {
+      "number": 373,
+      "id": "Syfy.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "SYFY USA"
+    },
+    {
+      "number": 336,
+      "id": "TBS.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "TBS USA"
+    },
+    {
+      "number": 650,
+      "id": "Teen.Nick.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "TeenNick"
+    },
+    {
+      "number": 394,
+      "id": "The.Weather.Channel.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "The Weather Channel"
+    },
+    {
+      "number": 31,
+      "id": "TNT.Sports.1.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "TNT Sports 1 UK"
+    },
+    {
+      "number": 32,
+      "id": "TNT.Sports.2.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "TNT Sports 2 UK"
+    },
+    {
+      "number": 33,
+      "id": "TNT.Sports.3.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "TNT Sports 3 UK"
+    },
+    {
+      "number": 34,
+      "id": "TNT.Sports.4.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "TNT Sports 4 UK"
+    },
+    {
+      "number": 338,
+      "id": "TNT.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "TNT USA"
+    },
+    {
+      "number": 660,
+      "id": "TV.ONE.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "TV ONE USA"
+    },
+    {
+      "number": 342,
+      "id": "TV.Land.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "TVLAND"
+    },
+    {
+      "number": 343,
+      "id": "USA.Network.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "USA Network"
+    },
+    {
+      "number": 344,
+      "id": "VH1.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "VH1 USA"
+    },
+    {
+      "number": 655,
+      "id": "WE.tv.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "WETV USA"
+    },
+    {
+      "number": 346,
+      "id": "Willow.Cricket.HD.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "Willow Cricket"
+    },
+    {
+      "number": 763,
+      "id": "Yes.Network.us2",
+      "feed": "US2",
+      "region": "US standard feed",
+      "title": "YES Network USA"
+    },
+    {
+      "number": 302,
+      "id": "I265.51529.schedulesdirect.org",
+      "feed": "TALK_US",
+      "region": "US East standard",
+      "title": "A&E USA"
+    },
+    {
+      "number": 296,
+      "id": "I565.46710.schedulesdirect.org",
+      "feed": "TALK_US",
+      "region": "US standard feed",
+      "title": "Hallmark Movies & Mysterie"
+    },
+    {
+      "number": 775,
+      "id": "121307.PlutoTV",
+      "feed": "TALK_FREE",
+      "region": "US",
+      "title": "Fox Weather"
+    },
+    {
+      "number": 829,
+      "id": "I432.59607.gracenote.com",
+      "feed": "TALK_US",
+      "region": "US Mid-Atlantic",
+      "title": "MASN USA"
+    },
+    {
+      "number": 451,
+      "id": "I867.79027.schedulesdirect.org",
+      "feed": "TALK_UK",
+      "region": "UK",
+      "title": "Viaplay Sports 1 UK"
+    },
+    {
+      "number": 550,
+      "id": "I869.109162.schedulesdirect.org",
+      "feed": "TALK_UK",
+      "region": "UK",
+      "title": "Viaplay Sports 2 UK"
+    },
+    {
+      "number": 607,
+      "id": "RallyTV.uk",
+      "feed": "OTHER_UK",
+      "region": "International English",
+      "title": "Rally Tv"
+    },
+    {
+      "number": 825,
+      "id": "FoxSportsMore.au",
+      "feed": "AU1",
+      "region": "Australia",
+      "title": "FOX Sports 507 AU"
+    },
+    {
+      "number": 36,
+      "id": "SkySportsPlus.uk",
+      "feed": "OTHER_UK",
+      "region": "UK",
+      "title": "Sky Sports Arena UK"
+    },
+    {
+      "number": 285,
+      "id": "CTV.Speed.HD.ca2",
+      "feed": "CA2",
+      "region": "Canada",
+      "title": "Discovery Velocity CA"
+    },
+    {
+      "number": 126,
+      "id": "Astro.Football.my",
+      "feed": "MY1",
+      "region": "Malaysia",
+      "title": "Astro SuperSport 4"
+    },
+    {
+      "number": 682,
+      "id": "Sky.One.HD.uk",
+      "feed": "UK1",
+      "region": "UK",
+      "title": "Sky Showcase UK"
+    },
+    {
+      "number": 349,
+      "id": "BBCNews.uk",
+      "feed": "BBC_LIVE",
+      "region": "UK",
+      "title": "BBC News"
+    }
+  ]
+}
