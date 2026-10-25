@@ -90,7 +90,13 @@
       "id": "SkySp.ActionHD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Sky Sports Action UK"
+      "title": "Sky Sports Action UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1072.59533.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 35,
@@ -104,7 +110,13 @@
       "id": "SkySpCricket.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Sky Sports Cricket"
+      "title": "Sky Sports Cricket",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1079.51204.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 60,
@@ -146,14 +158,26 @@
       "id": "SkySp.Racing.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Sky Sports Racing UK"
+      "title": "Sky Sports Racing UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1101.30505.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 46,
       "id": "SkySp.Tennis.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Sky Sports Tennis UK"
+      "title": "Sky Sports Tennis UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1103.147889.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 683,
@@ -251,7 +275,13 @@
       "id": "Sky.HistoryHD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Sky History"
+      "title": "Sky History",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1028.21558.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 361,
@@ -426,7 +456,13 @@
       "id": "New.England.Sports.Network.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "NESN USA"
+      "title": "NESN USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I434.35038.gracenote.com"
+        }
+      ]
     },
     {
       "number": 371,
@@ -454,7 +490,13 @@
       "id": "Smithsonian.HD.Network.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Smithsonian Channel"
+      "title": "Smithsonian Channel",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I570.58532.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 320,
@@ -475,7 +517,13 @@
       "id": "Me.TV.Network.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "METV USA"
+      "title": "METV USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I77.70436.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 659,
@@ -517,7 +565,13 @@
       "id": "U.and.Dave.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Dave"
+      "title": "Dave",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1306.73129.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 826,
@@ -860,7 +914,13 @@
       "id": "AXS.TV.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "AXS TV USA"
+      "title": "AXS TV USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I340.28506.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 305,
@@ -874,21 +934,39 @@
       "id": "BBC.Four.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "BBC Four UK"
+      "title": "BBC Four UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I109.20684.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 358,
       "id": "BBC.Three.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "BBC Three UK"
+      "title": "BBC Three UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1014.122089.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 357,
       "id": "BBC.Two.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "BBC Two UK"
+      "title": "BBC Two UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1003.50059.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 425,
@@ -916,7 +994,13 @@
       "id": "Boomerang.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Boomerang"
+      "title": "Boomerang",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I298.21883.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 307,
@@ -951,7 +1035,13 @@
       "id": "Cleo.TV.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Cleo TV"
+      "title": "Cleo TV",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I341.110289.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 310,
@@ -979,7 +1069,13 @@
       "id": "COZI.TV.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "COZI TV USA"
+      "title": "COZI TV USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I80.78851.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 651,
@@ -1000,14 +1096,26 @@
       "id": "Discovery.Family.Channel.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Discovery Family"
+      "title": "Discovery Family",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I294.16618.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 311,
       "id": "Discovery.Life.Channel.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Discovery Life Channel"
+      "title": "Discovery Life Channel",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I261.16125.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 314,
@@ -1035,7 +1143,13 @@
       "id": "Fight.Network.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Fight Network"
+      "title": "Fight Network",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I388.81448.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 688,
@@ -1077,7 +1191,13 @@
       "id": "FX.Movie.Channel.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "FX Movie Channel"
+      "title": "FX Movie Channel",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I258.70253.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 317,
@@ -1098,7 +1218,13 @@
       "id": "FYI.Channel.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "FYI"
+      "title": "FYI",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I266.16834.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 319,
@@ -1161,21 +1287,39 @@
       "id": "ITV2.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "ITV 2 UK"
+      "title": "ITV 2 UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I664.69228.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 352,
       "id": "ITV3.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "ITV 3 UK"
+      "title": "ITV 3 UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I669.69374.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 353,
       "id": "ITV4.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "ITV 4 UK"
+      "title": "ITV 4 UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I674.69375.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 299,
@@ -1238,7 +1382,13 @@
       "id": "NewsNation.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "NewsNation USA"
+      "title": "NewsNation USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I307.91096.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 405,
@@ -1273,7 +1423,13 @@
       "id": "Nicktoons.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Nicktoons"
+      "title": "Nicktoons",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I302.30420.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 331,
@@ -1308,7 +1464,13 @@
       "id": "Racing.TV.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "Racing Tv UK"
+      "title": "Racing Tv UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I910.24226.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 670,
@@ -1322,7 +1484,13 @@
       "id": "Science.Channel.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Science Channel"
+      "title": "Science Channel",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I284.57390.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 385,
@@ -1357,7 +1525,13 @@
       "id": "Teen.Nick.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "TeenNick"
+      "title": "TeenNick",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I303.59036.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 394,
@@ -1378,14 +1552,26 @@
       "id": "TNT.Sports.2.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "TNT Sports 2 UK"
+      "title": "TNT Sports 2 UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1246.82451.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 33,
       "id": "TNT.Sports.3.HD.uk",
       "feed": "UK1",
       "region": "UK",
-      "title": "TNT Sports 3 UK"
+      "title": "TNT Sports 3 UK",
+      "fallbacks": [
+        {
+          "feed": "TALK_UK",
+          "id": "I1248.95772.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 34,
@@ -1406,7 +1592,13 @@
       "id": "TV.ONE.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "TV ONE USA"
+      "title": "TV ONE USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I328.61960.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 342,
@@ -1441,14 +1633,26 @@
       "id": "Willow.Cricket.HD.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "Willow Cricket"
+      "title": "Willow Cricket",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I625.80621.schedulesdirect.org"
+        }
+      ]
     },
     {
       "number": 763,
       "id": "Yes.Network.us2",
       "feed": "US2",
       "region": "US standard feed",
-      "title": "YES Network USA"
+      "title": "YES Network USA",
+      "fallbacks": [
+        {
+          "feed": "TALK_US",
+          "id": "I1702.46275.gracenote.com"
+        }
+      ]
     },
     {
       "number": 302,
